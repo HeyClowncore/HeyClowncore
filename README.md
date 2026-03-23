@@ -15,7 +15,6 @@
 
 <img width="2048" height="167" alt="image" src="https://github.com/user-attachments/assets/fe02bd5f-64f8-4f08-b3e8-e787ad3ba38a" />
 
-<img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/b87b33ad-9bd2-47eb-8a94-bb7de794c72f" />
 LINKS (THESE CONTAIN MY SOCIALS):
 https://Lansibuttcheeks.straw.page
 
