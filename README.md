@@ -12,7 +12,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1200&color=C049F7&multiline=true&width=435&lines=C+*+H+%2B+IWC+ON+PONY+TOWN!)](https://git.io/typing-svg)
 
+<img width="776" height="72" alt="image" src="https://github.com/user-attachments/assets/3b100e12-54cd-42ad-932c-a7518ff6acc0" />
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p26kofz46cmwjhyyozd326eppe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-<img width="139" height="47" alt="image" src="https://github.com/user-attachments/assets/7bbbcdc8-887d-4ddd-8517-e854dc7e00f8" />
+
 
