@@ -13,3 +13,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1200&color=C049F7&multiline=true&width=435&lines=C+*+H+%2B+IWC+ON+PONY+TOWN!)](https://git.io/typing-svg)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p26kofz46cmwjhyyozd326eppe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<img width="109" height="8" alt="image" src="https://github.com/user-attachments/assets/77c4007c-e853-49f1-b251-27159ed22376" />
