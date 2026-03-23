@@ -17,7 +17,9 @@
 
 <img width="240" height="180" alt="image" src="https://github.com/user-attachments/assets/b87b33ad-9bd2-47eb-8a94-bb7de794c72f" />
 LINKS (THESE CONTAIN MY SOCIALS):
-Lansibuttcheeks.straw.page
+https://Lansibuttcheeks.straw.page
+
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p26kofz46cmwjhyyozd326eppe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
