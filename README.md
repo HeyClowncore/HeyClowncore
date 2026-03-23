@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=C049F7&width=435&lines=WELCOME+TO+MY+PAGE!!!!+%3C_%3C)](https://git.io/typing-svg)
+<img width="362" height="43" alt="image" src="https://github.com/user-attachments/assets/5c33b919-a08f-4ff2-b2b1-55234bc52942" />
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=C049F7&width=435&lines=WELCOME+TO+MY+PAGE!!!!+%3C_%3C)](https://git.io/typing-svg)
+<img width="198" height="27" alt="image" src="https://github.com/user-attachments/assets/3861fcba-781d-4be6-9c45-52d756458346" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=C049F7&multiline=true&width=435&lines=DNI%3A+23%2B+%26+-13+%5E_%5E+%7C%7C+BFI%3A+I+am+still+a+minor!)](https://git.io/typing-svg)
 
 
 
