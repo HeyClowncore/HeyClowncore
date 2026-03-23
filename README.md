@@ -14,4 +14,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p26kofz46cmwjhyyozd326eppe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-<img width="109" height="8" alt="image" src="https://github.com/user-attachments/assets/77c4007c-e853-49f1-b251-27159ed22376" />
+<img width="139" height="47" alt="image" src="https://github.com/user-attachments/assets/7bbbcdc8-887d-4ddd-8517-e854dc7e00f8" />
+
