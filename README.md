@@ -1,7 +1,7 @@
+<img width="362" height="43" alt="image" src="https://github.com/user-attachments/assets/5c33b919-a08f-4ff2-b2b1-55234bc52942" />
 
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1200&color=C049F7&width=435&lines=WELCOME+TO+MY+PAGE!!!!+%3C_%3C)](https://git.io/typing-svg)
-   <img width="300" height="40" alt="image" src="https://github.com/user-attachments/assets/4b4eaa9d-bf19-4ea3-a9b1-0786c1a6ecfe" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1200&color=C049F7&width=435&lines=WELCOME+TO+MY+PAGE!!!!+%3C_%3C)](https://git.io/typing-svg) <img width="300" height="40" alt="image" src="https://github.com/user-attachments/assets/4b4eaa9d-bf19-4ea3-a9b1-0786c1a6ecfe" />
+  
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1200&color=C049F7&multiline=true&width=435&lines=DNI%3A+23%2B+%26+-13+%5E_%5E+%7C%7C+BFI%3A+I+am+still+a+minor!)](https://git.io/typing-svg)
 
