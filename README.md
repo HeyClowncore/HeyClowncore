@@ -1,6 +1,7 @@
 <img width="362" height="43" alt="image" src="https://github.com/user-attachments/assets/5c33b919-a08f-4ff2-b2b1-55234bc52942" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1200&color=C049F7&width=435&lines=WELCOME+TO+MY+PAGE!!!!+%3C_%3C)](https://git.io/typing-svg) <img width="540" height="405" alt="image" src="https://github.com/user-attachments/assets/f55cdd2a-9c39-4cc0-8fbf-fd269a085b62" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1200&color=C049F7&width=435&lines=WELCOME+TO+MY+PAGE!!!!+%3C_%3C)](https://git.io/typing-svg) <img width="540" height="405" alt="image" src="https://github.com/user-attachments/assets/f55cdd2a-9c39-4cc0-8fbf-fd269a085b62" /> <img width="102" height="20" alt="image" src="https://github.com/user-attachments/assets/432512de-d3f9-4023-a204-908f13aa2b53" />
+
 
   
  
@@ -12,7 +13,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1200&color=C049F7&multiline=true&width=435&lines=C+*+H+%2B+IWC+ON+PONY+TOWN!)](https://git.io/typing-svg)
 
-<img width="776" height="72" alt="image" src="https://github.com/user-attachments/assets/3b100e12-54cd-42ad-932c-a7518ff6acc0" />
+<img width="2048" height="167" alt="image" src="https://github.com/user-attachments/assets/fe02bd5f-64f8-4f08-b3e8-e787ad3ba38a" />
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p26kofz46cmwjhyyozd326eppe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
