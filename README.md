@@ -1,7 +1,7 @@
 <img width="1600" height="240" alt="image" src="https://github.com/user-attachments/assets/86501ca7-9bf2-485b-9d2f-63bff39e0e75" />
 
 
-<img width="362" height="43" alt="image" src="https://github.com/user-attachments/assets/5c33b919-a08f-4ff2-b2b1-55234bc52942" />
+<img width="1800" height="470" alt="image" src="https://github.com/user-attachments/assets/5c33b919-a08f-4ff2-b2b1-55234bc52942" />
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1200&color=C049F7&width=435&lines=WELCOME+TO+MY+PAGE!!!!+%3C_%3C)](https://git.io/typing-svg) <img width="540" height="405" alt="image" src="https://github.com/user-attachments/assets/f55cdd2a-9c39-4cc0-8fbf-fd269a085b62" /> <img width="102" height="20" alt="image" src="https://github.com/user-attachments/assets/432512de-d3f9-4023-a204-908f13aa2b53" />
 
