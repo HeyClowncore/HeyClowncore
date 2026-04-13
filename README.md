@@ -1,31 +1,10 @@
-<img width="1600" height="240" alt="image" src="https://github.com/user-attachments/assets/86501ca7-9bf2-485b-9d2f-63bff39e0e75" />
+->![](https://i.postimg.cc/GmbCb7qn/hcqwd1.png)<-
+-> " %red%あなたに会うたびに私の一日は悪化します。%%" <-
+-> %black%hi%%
+![](https://i.postimg.cc/QtrKs4Df/Yfhp3TNB-Ww0NH3YEVUr-TT.png) 
+![](https://i.postimg.cc/MTkGz04k/3z4kiv.gif) : **C**lown ![](https://i.postimg.cc/fTWRWRHb/ujxmjr.gif) ==K==**oi** *!?* ![](https://i.postimg.cc/DwBjVBSZ/vo514e.gif) %red%⊹ He / They%% / She *!!* ![](https://i.postimg.cc/nzb9zf5h/psc7t8.gif) <-
+-> ![](https://i.postimg.cc/QCnXFptJ/taae2s.gif) :: %red% Minor . Artist%% ^_^ . Aromantic *!* ![](https://i.postimg.cc/bN7h4Y2r/18x9lq.gif)<-
 
-
-<img width="1800" height="470" alt="image" src="https://github.com/user-attachments/assets/5c33b919-a08f-4ff2-b2b1-55234bc52942" />
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1200&color=C049F7&width=435&lines=WELCOME+TO+MY+PAGE!!!!+%3C_%3C)](https://git.io/typing-svg) <img width="540" height="405" alt="image" src="https://github.com/user-attachments/assets/f55cdd2a-9c39-4cc0-8fbf-fd269a085b62" /> <img width="102" height="20" alt="image" src="https://github.com/user-attachments/assets/432512de-d3f9-4023-a204-908f13aa2b53" />
-
-
-  
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1200&color=C049F7&multiline=true&width=435&lines=DNI%3A+23%2B+%26+-13+%5E_%5E+%7C%7C+BFI%3A+I+am+still+a+minor!)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1200&color=C049F7&multiline=true&width=435&lines=I+have+ADHD+so+please+don't+bother+me+too+much!)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1200&color=C049F7&multiline=true&width=435&lines=I'm+mostly+on+my+other+socials!+(Down+below))](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=1200&color=C049F7&multiline=true&width=435&lines=C+*+H+%2B+IWC+ON+PONY+TOWN!)](https://git.io/typing-svg)
-
-<img width="2048" height="167" alt="image" src="https://github.com/user-attachments/assets/fe02bd5f-64f8-4f08-b3e8-e787ad3ba38a" />
-
-LINKS (THESE CONTAIN MY SOCIALS):
-https://Lansibuttcheeks.straw.page
-
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p26kofz46cmwjhyyozd326eppe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-
-
-
-
+-> ![](https://i.postimg.cc/4NPJHRKx/dtdc1i.gif) | ! LINKS ! | ![](https://i.postimg.cc/4NPJHRKx/dtdc1i.gif)<-
+-> [ %red%[strawpage](https://lansibuttcheeks.straw.page) %% ] <-
+->![](https://i.postimg.cc/1tt2fbNb/mozfkb.gif)<-
