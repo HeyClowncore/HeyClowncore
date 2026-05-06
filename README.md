@@ -1,19 +1,23 @@
-PAGE_TITLE = Candle !
-PAGE_DESCRIPTION = 🧡
-PAGE_ICON = https://files.catbox.moe/yaovys.gif
-ACCESS_EASY_READ = https://rentry.co/oga9fzwg
-CONTAINER_MAX_WIDTH = 475px
-CONTAINER_INNER_BACKGROUND_COLOR = transparent
-CONTAINER_INNER_BACKGROUND_IMAGE = https://files.catbox.moe/zbbmlj.png
-CONTAINER_INNER_BACKGROUND_IMAGE_REPEAT = no-repeat
-CONTAINER_INNER_BACKGROUND_IMAGE_POSITION = center
-CONTAINER_INNER_BACKGROUND_IMAGE_SIZE = 475px
-CONTAINER_OUTER_BACKGROUND_IMAGE = https://files.catbox.moe/gnuiga.png
-CONTAINER_OUTER_BACKGROUND_IMAGE_REPEAT = no-repeat
-CONTAINER_OUTER_BACKGROUND_IMAGE_POSITION = center
-CONTAINER_OUTER_BACKGROUND_IMAGE_SIZE = cover
-CONTENT_FONT = Bubblegum_Sans
-CONTENT_TEXT_SHADOW_COLOR = #DD642D
-CONTENT_TEXT_SHADOW_OFFSET = 0px 2px
-CONTENT_TEXT_COLOR = white
-CONTENT_LINK_COLOR = #FFCD82
+[//]: (TUTORIAL: To use this rentry. you have to copy and paste ALL the content and paste it into your own rentry, do not forget the metadata or else it wont really look like the only I have pasted. Then you replace the placeholder text with your information! Enjoy your template!)
+[//]: (Feel free to make changes, use this rentry as a base or take aspects of this template!)
+[//]: (this template is heavily complex so it might break, free feel to remove a lot of dots.)
+[//]: (text doesnt align on purpose cause i gave up making the border separately)
+[//]: (this is completely optional to match with btw)
+‎
+‎
+‎ 
+‎
+‎
+‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ Name or Name  %#FFBA82%...%%  Pro%#FFBA82%/%%Nou%#FFBA82%/%%Ns   ‎  ◍•ᴗ•◍
+‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ![A pixel of an orange sun](https://files.catbox.moe/dld77e.gif)  Info Info Info ✦⁺₊˚ Info Info Info
+‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ![A white wavy, curly divider](https://files.catbox.moe/9ah8z7.png){250hw:20%}
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎  ‎ ‎    ‎ ‎ ‎  ‎ ‎ ![A stamp of Cosmo in the official "Gardenview Diner" poster.](https://files.catbox.moe/22iyjy.png){74:45} ![A stamp of orange stars](https://files.catbox.moe/dkxc5e.png){74:45}
+‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎   !~;wavy;Info Info Info Info Info~! ![A pixel of two orange question marks](https://files.catbox.moe/36s0ar.gif) 
+‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ !~white;line-through;8; ‎ ‎ ⠀⠀⠀⠀⠀⠀⠀~!   [name ur pal smthing](SaltedStrawberry)
+‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎    ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎  [link]() ‎ ‎  ❀ [link]() ‎ ‎  ❀  [link]() ‎ ‎  ❀  [link]()
+‎
+‎
+‎
+‎
+‎
