@@ -1,7 +1,1 @@
-![](https://files.catbox.moe/d89onb.png) 
-![](https://i.postimg.cc/MTkGz04k/3z4kiv.gif) : **C**andle ![](https://i.postimg.cc/fTWRWRHb/ujxmjr.gif) K**oi** *!?* ![](https://i.postimg.cc/DwBjVBSZ/vo514e.gif) ⊹ He / They / She *!!* ![](https://i.postimg.cc/nzb9zf5h/psc7t8.gif) <-
-
- ![](https://i.postimg.cc/QCnXFptJ/taae2s.gif) :: Minor . Artist ^_^ . Aromantic . Creator of Bloodlust *!* ![](https://i.postimg.cc/bN7h4Y2r/18x9lq.gif)
-
- ![](https://i.postimg.cc/4NPJHRKx/dtdc1i.gif) | ! LINKS ! | ![](https://i.postimg.cc/4NPJHRKx/dtdc1i.gif)
- [ [strawpage](https://candlewalking.straw.page)  ] 
+<div class="mb-4 clearfix"> <div> <div class="card rounded-0 border-0 col-lg-10 offset-lg-2 col-md-9 offset-md-3 p-0" style='background-image:url("<div class="mb-4 clearfix"> <div> <div class="card rounded-0 border-0 col-lg-10 offset-lg-2 col-md-9 offset-md-3 p-0" style='background-image:url("https://media1.tenor.com/m/bpHwXWi71QoAAAAC/birthday-background-background.gif");background-attachment:fixed;background-size:cover;background-position:center;text-align:center;'>");background-attachment:fixed;background-size:cover;background-position:center;text-align:center;'>
