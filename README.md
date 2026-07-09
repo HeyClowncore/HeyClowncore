@@ -5,7 +5,9 @@
                 background-attachment:fixed;
                 background-size:cover;
                 background-position:center;
-                text-align:center;'>
+                text-align:center;
+                min-height:300px;'>
+      <!-- Put your content here -->
     </div>
   </div>
 </div>
