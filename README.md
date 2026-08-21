@@ -1,5 +1,5 @@
 # Koto / Clown 🌸
-he / they ✿ co-owner
+he / they ✿
 
 british, UTC timezone
 16.01 🍰
