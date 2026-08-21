@@ -1,27 +1,22 @@
-:banhappy:    ༽   :banlong1::banlong2::banlong3::banlong3::banlong3::banlong3::banlong3::banlong3::banlong4:  ༼    :banbaba:
-                                 Rory / Rome   
- ၇   :1f_pt_purpleheart:    :       status for my pronouns        :1f_pt_purpleheart:
+# Ko__to / Clow__n <a:whiteflower3:1442212463478313132> 
+he / they ✿ co-owner
 
-      I am boyspike and sapphic !!
-      ࣪
- ‹  𐭩  I am from canada!  ,   my birthday is 12.02   :PurpleBats: 
-   ⌗ ┆         EST timezone   ,,   16 yrs old                 ⸝⸝
-             ︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿
+british, UTC timezone
+16.01 <:05_strawberrycake:1501880596354433145> 
 
-Likes : minecraft, art, my ocs, mi friends, anime, drhouse, 
-         ALNST,  conan gray/wishbone album, aha, nullscape
+☘︎ Interests  
+OSC, aha, radiohead
+XFOVH, writing, nullscape
+character design, analog horror & my OCs <a:040:1354350126923255908> 
 
-     :bancelebrate:    dislikes : people who cant have a genuine/serious convo , 
-                   ၇     :medsmile:     pickles , mean people/dry texters , 
-                            people who prefer opinion over hard facts      ၇    :bandesignaccurate:
-             ︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿
-
-      ⸝⸝    DNI : people who cant respect basic boundaries , 
-               :medflustered:      if you dm/frq me w/o perms , ragebaiters , ai users
+☘︎ Dislikes  
+Homophobes & transphobes, radqueers
+people who need to be right in every conversation
+mean people, guilt‑trippers, ragebaiters
+TADC fans, forsaken fans, trump/ice supporters <a:b12:1354614623227089008> 
 
 
-              ⌗ ┆       EXT :
-                   i love meeting new people and talking about ocs,  :medannoyed:
-            i have nldo (eye issue) and wear an eyepatch/glasses sometimes
-banner by rujo on pint
-Image
+I yume with **seven**! <:WB_sevenjolly:1534340998635847690>
+-# Psst, yeah you there: DM me "miau" to get my role
+
+-# <:Geulp_autism:1540374081285652512>  <:Geulp_adhd:1540374053079093359>
